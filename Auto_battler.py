@@ -181,7 +181,7 @@ def BattleStatus(index):
 
     
 
-with open(r"D:\Ali Hassan\Projects\_Python_\Project_#2\health_data.csv", "r") as h:
+with open(r"health_data.csv", "r") as h:
 
     data = csv.DictReader(h)
 
