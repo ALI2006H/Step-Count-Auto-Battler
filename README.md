@@ -39,7 +39,7 @@ Your character's **Health** and **Attack** scale dynamically based on the step c
 
 
 
-4. **The Battle System:** Turn-based combat loops until someone drops to $0$ HP. Winning grants gold, XP, and unique gear, while losing drops $275$ gold pieces.
+4. **The Battle System:** Turn-based combat loops until someone drops to $0$ HP. Winning grants gold, XP, and unique gear, while losing drops 275 gold pieces.
 
 
 5. **Rare Drops & Reports:** Exceeding 10,000 steps unlocks an extra chance at a limited pool of rare loot (like Double XP or Gold Chests). At the end of the data file, a full report displays your final level, gold, inventory, and win/loss ratio.
